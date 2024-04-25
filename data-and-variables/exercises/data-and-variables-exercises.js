@@ -6,7 +6,14 @@ let distanceToMarsKm = 225000000;
 let distanceToMoonKm = 38400;
 const milesPerKm = 0.621;
 
+
 // Use console.log to print the 'typeof' each variable. Print one item per line.
+
+console.log(typeof shuttleName);
+console.log(typeof shuttleSpeedMph);
+console.log(typeof distanceToMarsKm);
+console.log(typeof distanceToMoonKm);
+console.log(typeof milesPerKm);
 
 
 // Calculate a space mission below
