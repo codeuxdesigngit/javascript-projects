@@ -18,9 +18,9 @@ console.log(typeof milesPerKm);
 
 // Calculate a space mission below
 
-let milesToMars = kilometersToMars * milesPerKilometer;
+let milesToMars = distanceToMarsKm * milesPerKm;
 let hoursToMars = milesToMars / shuttleSpeedMph;
-letdaysToMars = hoursToMarss / 24;
+letdaysToMars = hoursToMars / 24;
 
 
 // Print the results of the space mission calculations below
